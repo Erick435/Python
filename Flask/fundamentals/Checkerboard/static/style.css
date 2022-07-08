@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    line-height: 0px;
+}
+
+h1{
+    color: red;
+}
+
+.cell0{
+    background-color: aqua;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+}
+
+.cell1{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+}
+
+
+
+
+
+/* This is the result without the extra routes
+Not what the assignment is asking for  */
+
+/* table tr td{
+    height:50px;
+    width:50px;
+}
+.color1{
+    background-color: rgba(13, 58, 182, 0.925);
+}
+.color2{
+    background-color: red;
+} */
